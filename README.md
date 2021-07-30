@@ -60,3 +60,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## GtHb
+
+git remote add origin `https://github.com/allen-5183/laravel-8.git`
+git branch -M main
+git push -u origin main
